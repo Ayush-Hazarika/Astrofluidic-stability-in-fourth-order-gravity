@@ -13,22 +13,22 @@ Varied L:
 Examines solutions under varying parameter L.
 Visualizes how changes in L influence the roots.
 
-Varied Density for L = 10^3
+Varied Density for L = 10^3:
 Investigates solutions for fixed L = 10^3 while varying the density parameter.
 Provides comparative visualizations.
 
-Varied τm
+Varied τm:
 Solves equations under varying τm (time constant or related parameter).
 Observes its effect on root behavior.
 
-Varied T₀
+Varied T₀:
 Studies the influence of initial temperature T₀ on the system.
 Includes detailed plots highlighting trends.
 
-Polytropic Variation
+Polytropic Variation:
 Implements polytropic variations, exploring how specific physical conditions impact the roots.
 Provides relevant theoretical and graphical results.
 
-Volumetric Expansion Variation
+Volumetric Expansion Variation:
 Analyzes volumetric changes and their role in the system.
 Visualizes the correlation between expansion and root behavior.
